@@ -1,0 +1,5 @@
+a =float(input("enter the value1:-"))
+b = float(input("enter ur value2:-"))
+#name, age = input("enter ur name and age-").split()
+#print(name)
+print(a+b)
